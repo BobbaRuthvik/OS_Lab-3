@@ -1,0 +1,4 @@
+Esc --> Save and quit
+Backspace --> Remove score and replace it with 'N'
+[1-9] --> Takes score
+up, down, left, right arrow keys
